@@ -17,4 +17,3 @@ while True:
             print(i, end=' ')
             if(a.index(i)!=len(a)-1):
                 print('+', end=' ')
-    print('\n')
